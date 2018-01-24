@@ -4,9 +4,13 @@ If you don't have NodeJS installed, then please install the 'LTS' version of Nod
 
 # Instructions on how to start your project
 
-* Step 1:  Clone the seed project to your local computer. Give it your own project name. This is done by running the following command:
+* Step 1:  Fork the [ashB100/fcc-project-seed-vanillajs](https://github.com/ashB100/fcc-project-seed-vanillajs) repository by clicking on the "Fork" button on the top right of the page. The fork effectively creates a copy of this repository on your Github account. 
 
-  <code>$ git clone https://github.com/ashB100/fcc-project-seed-vanillajs.git your-project-name</code>
+* Step 2: From your GitHub account, cloned your copy of the fcc-project-seed-vanillajs repository:
+
+  Click on the green "Clone or Download" button and copy the url to the repository. 
+
+  <code>$ git clone your-copied-url your-project-name</code>
 
   <small>Note<sup>*</sup>: You don't have to type $, it is just there to show that you're in the command line prompt, Terminal in Mac and Console in Windows.</small>
   
